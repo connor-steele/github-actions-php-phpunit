@@ -9,4 +9,4 @@ class GreetingsTest extends TestCase
 	{
 		$this->assertEquals('Hello World', Greetings::sayHelloWorld());
 	}
-}
+} 
